@@ -4,3 +4,4 @@
 - olive oil
 - salt
 - garlic
+- pepper
