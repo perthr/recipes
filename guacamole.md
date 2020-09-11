@@ -1,6 +1,6 @@
 # Ingredients
 - advocado
-- lemon
+- lime
 - salt
 
 # Instructions
